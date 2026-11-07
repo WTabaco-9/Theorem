@@ -1,0 +1,8 @@
+ticket_id,opened_at,channel,category,priority,status
+TKT-1001,2026-06-02T09:15:00Z,web,Billing,medium,resolved
+TKT-1002,2026-06-02T10:42:00Z,chat,Delivery,high,open
+TKT-1003,2026-06-03T01:08:00Z,web,Product question,low,resolved
+TKT-1004,2026-06-03T06:30:00Z,phone,Returns,medium,pending
+TKT-1005,2026-06-04T11:22:00Z,chat,Account,high,resolved
+TKT-1006,2026-06-05T03:54:00Z,web,Delivery,low,open
+TKT-1007,2026-06-05T08:16:00Z,phone,Billing,medium,resolved
